@@ -22,7 +22,6 @@ I enjoy building interfaces that are maintainable, predictable, and pleasant to 
 - REST APIs
 - Git
 - Clean Architecture principles
-- Pragmatic testing
 
 ---
 
